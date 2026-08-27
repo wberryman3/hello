@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Will\n");
+  printf("Will!\n");
+  printf("Electrical Engineering\n");
 
   return 0;
 }
