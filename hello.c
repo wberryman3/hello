@@ -1,5 +1,5 @@
 /**
- * Author: Will Berryman
+ * Author: Will Berryman and Hudson DeVos
  *         wberryman3@huskers.unl.edu
  * Date: 2026/08/26
  *
@@ -13,6 +13,9 @@ int main(int argc, char **argv) {
 
   printf("Will!\n");
   printf("Electrical Engineering\n");
+
+  printf("Hudson\n");
+  printf("Robotics Engineering\n");
 
   return 0;
 }
